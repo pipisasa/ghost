@@ -4,6 +4,7 @@ themes=(
 	headline
 	ruby
 	ease
+	solo
 )
 
 mkdir -p content/themes/
